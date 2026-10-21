@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+.student-page {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.student-page h1 {
+  font-size: 38px;
+  margin-bottom: 8px;
+  color: #111;
+}
+
+.student-info {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.5;
+}
+
+.student-info p {
+  margin: 2px 0;
+}
+
+.student-info strong {
+  font-weight: bold;
+  color: #666;
+}
+.student-page img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+        
